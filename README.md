@@ -9,7 +9,7 @@ Khoa Doan
 [Ming Zhu](http://people.cs.vt.edu/mingzhu/)  
 Aman Ahuja  
 Akshita Jha  
-Nurendra Choudhary  
+[Nurendra Choudhary](https://nurendra.me/) 
 Sindhura Tipirneni  
 
 ### Publications
